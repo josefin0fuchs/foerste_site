@@ -1,1 +1,19 @@
 # foerste_site
+<!DOCTYPE html>
+<html lang="da">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Erhvervsakademi København</title>
+        <style>
+            img {
+                width: 20%;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Josefin Fuchs</h1>
+        <img src="josefinfuchs.jpg" alt="Portrætbillede af Josefin Fuchs" />
+    </body>
+
+</html>
